@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <style>
    
     /*background color and description text color*/
@@ -145,7 +143,7 @@
 
             <div class="submitorder" id="submitorder">            
             <input type="submit" id="submit" value="Submit Order" style="font-size:16px;background-color:#448D76;color:white;">
-        </form>      
+              
     </div>
 
     <script>
@@ -246,5 +244,4 @@
         // Initialize total cost
         totalInput.value = '€0';
     </script>
-</body>
-</html>
+
